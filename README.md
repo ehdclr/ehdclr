@@ -7,6 +7,13 @@
 
 [![Jong2's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdclr&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ehdclr/github-readme-stats)
 
+
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdclr&layout=compact&theme=dark)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ehdclr)](https://solved.ac/ehdclr)
+
+
 <br>
 
 ## ☁️ SNS ☁️
